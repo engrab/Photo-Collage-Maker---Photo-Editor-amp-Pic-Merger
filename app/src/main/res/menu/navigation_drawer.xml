@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menue_collage_maker"
+        android:title="Collage Maker" />
+    <item
+        android:id="@+id/menue_layout"
+        android:title="Layout"/>
+    <item
+        android:id="@+id/menue_edit_image"
+        android:title="Edit Image"/>
+    <item
+        android:id="@+id/menue_saved_images"
+        android:title="Saved Images"/>
+    <item
+        android:id="@+id/menue_share_app"
+        android:title="Share App"/>
+    <item
+        android:id="@+id/menue_rate_us"
+        android:title="Rate Us"/>
+    <item
+        android:id="@+id/menue_privacy_policy"
+        android:title="Privacy Policy"/>
+</menu>
